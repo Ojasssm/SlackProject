@@ -1,0 +1,67 @@
+.card-section{
+    height: 42vw;
+}
+.card-section h1{
+    color: #000;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 141.875%; /* 73.775px */
+    letter-spacing: -1px;
+    position: relative;
+    top: 4vw;
+    left: 31vw;
+}
+
+.cards{
+    /* border: 2px solid green; */
+    position: relative;
+    top: 9vw;
+    left: 8vw;
+    display: flex;
+    width: fit-content;
+}
+
+.card{
+    height: 26vw;
+    width: 17.7vw;
+    margin: 0 1.5vw;
+    background: #f4efe8;
+    box-shadow: 9px 8px 17.1px 0px rgba(0, 0, 0, 0.25);
+}
+.card img{
+    /* border: 1px solid black; */
+    width: 16vw;
+    height: 11vw;
+    margin: 0.8vw;
+}
+.card p{
+    margin-left: 0.65vw;
+    margin-top: 0.7vw;
+    font-family: Inter;
+
+}
+.card h2{
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 141.875%; /* 73.775px */
+    letter-spacing: -1px;
+    width: 15vw;
+    margin-left: 0.65vw;
+    margin-top: 0.5vw;
+}
+.card div{
+    margin-left: 0.65vw;
+    margin-top: 4.8vw;   
+}
+.card div a{
+    text-decoration: none;
+    font-family: Inter;
+    font-weight: 600;
+    letter-spacing: 1px;
+    
+}

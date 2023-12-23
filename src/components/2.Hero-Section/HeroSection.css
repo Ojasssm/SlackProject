@@ -1,0 +1,101 @@
+.heroSection {
+    background-color: #31304D;
+    height: 76vh;
+}
+
+.herosec-left {
+    width: 40vw;
+    height: 25vw;
+    margin-left: 10vw;
+    position: absolute;
+    top: 10vw;
+}
+
+.herosec-right {
+    position: absolute;
+    top: 6vw;
+    right: 4vw;
+}
+.herosec-right video{
+    width: 42vw;
+    height: 33vw;
+}
+
+.herosec-left h1:nth-child(1) {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.herosec-left h1:nth-child(2) {
+    color: #FFB409;
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0.1vw 0;
+}
+
+.p1 {
+    color: #FFF;
+    font-family: Quicksand;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140.125%;
+    letter-spacing: 1.12px;
+    width: 666px;
+    margin: 1vw 0;
+}
+
+.sec1-btns {
+    margin-top: 2.5vw;
+}
+
+.sec1-btn1 {
+    width: 300px;
+    height: 66px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FFF;
+    color: #31304D;
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+}
+
+.sec1-btn2 {
+    width: 300px;
+    height: 66px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #4285F4;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 1.3vw;
+    border: none;
+}
+
+.p2 {
+    color: #FFF;
+    font-family: Quicksand;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 153.125%;
+    /* 42.875px */
+    letter-spacing: 1.12px;
+    width: 666px;
+    margin-top: 0.8vw;
+}

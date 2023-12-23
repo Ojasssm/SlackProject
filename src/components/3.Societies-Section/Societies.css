@@ -1,0 +1,33 @@
+.societies-sec {
+    height: 18vw;
+    flex-shrink: 0;
+    background: #F4EDE4;
+}
+
+.societies-sec p {
+    color: #000;
+    font-family: Quicksand;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 153.125%;
+    /* 36.75px */
+    letter-spacing: 0.96px;
+    position: relative;
+    top: 2vw;
+    left: 36vw;
+}
+
+.societies-box {
+    position: relative;
+    top: 5vw;
+    left: 31vw;
+    width: fit-content;
+}
+
+.societies-box img {
+    width: 120px;
+    height: 120px;
+    border-radius: 89.963px;
+    margin: 0 3vw;
+}

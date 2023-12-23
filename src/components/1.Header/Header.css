@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: #31304D;
+    height: 10vh;
+    display: flex;
+    padding-top: 0.5vw;
+}
+
+.logo {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 10vw;
+    margin-top: 1vw;
+}
+
+.options {
+    display: flex;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0.6vw;
+    margin-left: 3vw;
+}
+
+.option {
+    margin: 17px;
+}
+
+
+
+
+
+
+.navbar-functions {
+    margin-left: 14.5vw;
+    display: flex;
+}
+
+.navbar-functions img {
+    width: 22px;
+    height: 22px;
+    flex-shrink: 0;
+    margin-top: 1.3vw;
+}
+
+.sign-in {
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 1.4vw 1vw;
+}
+.sign-in a{
+    color: white;
+    text-decoration: none;
+}
+
+.btn {
+    width: 128px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 1.2vw 0.4vw;
+}
+.btn1{
+    color: white;
+    background-color: #31304D;
+}
+.btn2{
+    background-color: white;
+}
